@@ -26,7 +26,7 @@ section{
     float: left;
     background-color: #fff;
     width: 50%;
-    height: 60%;
+    height: 350px;
     line-height: 40px;
     margin-top: 20px;
 }
@@ -35,7 +35,7 @@ aside{
     margin-top: 20px;
     line-height: 40px;
     float: right;
-    height: 60%;
+    height: 350px;
     width: 45%;
     background-color: #fff;
 }
@@ -51,6 +51,7 @@ article{
     right: 10px;
     clear: both;
     width: 90%;
+    height: 150px;
 }
 
 .h123{
